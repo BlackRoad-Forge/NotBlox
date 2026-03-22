@@ -1,3 +1,13 @@
+# RoadBlox — BlackRoad 3D multiplayer game. Three.js, physics, vehicles.
+
+> Part of the [BlackRoad OS](https://blackroad.io) sovereign technology ecosystem.
+> Licensed under [BlackRoad OS, Inc. Proprietary License](./LICENSE).
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=flat-square)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-black?style=flat-square)](./LICENSE)
+
+---
+
 # Three JS Multiplayer Game Demo
 
 Welcome to **Notblox**! This project showcases a simple multiplayer game engine built with Three.js and TypeScript, featuring an Entity Component System (ECS) for efficient network synchronization and utilizing Rapier.js for physics.
